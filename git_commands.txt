@@ -1,0 +1,26 @@
+Here are "NINE" git commands
+1. git init:                    Create empty Git repo in specified directory. Run with no
+                                arguments to initialize the current directory as a git repository.
+
+2. git config user.name         Define author name to be used for all commits in current repo. 
+
+3. git revert                   Create new commit that undoes all of the changes made in
+                                <commit>, then apply it to the current branch.
+
+4. git reset <file>             Remove <file> from the staging area, but leave the working directory
+                                unchanged. This unstages a file without overwriting any changes.
+
+5. git clean -n                 Shows which files would be removed from working directory.
+
+6. git diff                     Show unstaged changes between your index and working directory.
+
+7. git reset                    Reset staging area to match most recent commit,
+                                but leave the working directory unchanged.
+
+8. git rebase -i                Interactively rebase current branch onto <base>. Launches editor to enter
+                                commands for how each commit will be transferred to the new base.
+
+9. git config --global --edit   Open the global configuration file in a text editor for manual editing
+
+10. git rebase -i               Interactively rebase current branch onto <base>. Launches editor to enter
+                                commands for how each commit will be transferred to the new base.
