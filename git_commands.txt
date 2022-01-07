@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 Here are "NINE" git commands
+=======
+Here are "TEN" git commands
+>>>>>>> gitcomm2
 1. git init:                    Create empty Git repo in specified directory. Run with no
                                 arguments to initialize the current directory as a git repository.
 
