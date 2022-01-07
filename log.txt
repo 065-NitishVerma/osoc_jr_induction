@@ -1,0 +1,36 @@
+commit 376f7cde15016a014c0619e1e6f00144a3f88273
+Author: Nitish <2021aspire02@gmail.com>
+Date:   Fri Jan 7 12:51:57 2022 +0530
+
+    added merge_conflict file
+
+commit 2ef4b2573a7a8ffc97eb98f361e22a6a7337a51d
+Author: Nitish <2021aspire02@gmail.com>
+Date:   Fri Jan 7 11:53:39 2022 +0530
+
+    corrected the no. of git commands
+
+commit 81d15ce8331d6ffbeb7eccaf584c1979c9e417a5
+Merge: 2f91f29 e7ae5bc
+Author: Nitish <2021aspire02@gmail.com>
+Date:   Fri Jan 7 11:48:36 2022 +0530
+
+    corrected the no. of git commands
+
+commit e7ae5bc2ef3202bbec018c817f19e4bd878e00b0
+Author: Nitish <2021aspire02@gmail.com>
+Date:   Fri Jan 7 11:36:46 2022 +0530
+
+    Initial commit
+
+commit 2f91f29f79f3eb59ecb9efdb6a910c428c4c17a5
+Author: Nitish <2021aspire02@gmail.com>
+Date:   Fri Jan 7 11:34:10 2022 +0530
+
+    Initial commit
+
+commit 84d38b4625e3c648eeaf1bbdc9fd542fa954fdb0
+Author: SHANOOR AHMED <76896805+shanoorahmed@users.noreply.github.com>
+Date:   Mon Jan 3 00:41:26 2022 +0530
+
+    Initial commit
