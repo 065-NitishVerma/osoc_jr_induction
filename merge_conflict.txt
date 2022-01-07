@@ -1,0 +1,5 @@
+1. To create a merge conflict i created two branches 'gitcomm1' and 'gitcomm2'
+2. In gitcomm1 i put heading " Here are 'nine' git commands" and in gitcomm2 "Here are 'ten' git commands"
+3. So while merging them it created a conflict for "nine" or "ten".
+4. I resolved it by removing "nine" and keeping "ten"
+5. Then committed the new changes in the main branch.
